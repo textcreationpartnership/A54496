@@ -1,0 +1,232 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A philosophical account of this hard frost From whence is rationally concluded what effects it may probably have upon humane bodies, as to health and sickness. Both in relation to the time of the frosts continuance, and to the time of thaw that shall succeed. With cautionary directions for the prevention of such distempers as are likely to be the natural consequence of both those seasons. Which directions are not only calculated for this present season, but are designedly adapted to serve upon the like occasion for time to come. Written in answer to a letter of a person of quality, and at his command made publick for the common good. By John Peter physician.</title>
+            <author>Peter, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54496</idno>
+            <idno type="STC">Wing P1689</idno>
+            <idno type="STC">ESTC R221451</idno>
+            <idno type="EEBO-CITATION">99832757</idno>
+            <idno type="PROQUEST">99832757</idno>
+            <idno type="VID">37231</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54496)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37231)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2150:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A philosophical account of this hard frost From whence is rationally concluded what effects it may probably have upon humane bodies, as to health and sickness. Both in relation to the time of the frosts continuance, and to the time of thaw that shall succeed. With cautionary directions for the prevention of such distempers as are likely to be the natural consequence of both those seasons. Which directions are not only calculated for this present season, but are designedly adapted to serve upon the like occasion for time to come. Written in answer to a letter of a person of quality, and at his command made publick for the common good. By John Peter physician.</title>
+                  <author>Peter, John.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Sam. Smith at the Prince's Arms in St. Pauls Church Yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Frost --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37231:1"/>
+            <pb facs="tcp:37231:1" rendition="simple:additions"/>
+            <p>A Philoſophical Account OF THIS HARD FROST.</p>
+            <p>From Whence Is Rationally concluded what <hi>Effects</hi> it may probably have upon <hi>Humane Bodies,</hi> as to <hi>Health</hi> and <hi>Sickneſs.</hi>
+            </p>
+            <p>Both in relation to the time of the <hi>Froſts</hi> Continuance, and to the time of <hi>Thaw</hi> that ſhall ſucceed.</p>
+            <p>With <hi>Cautionary Directions</hi> for the prevention of ſuch <hi>Diſtempers</hi> as are likely to be the <hi>Natural Conſequence</hi> of both thoſe Seaſons.</p>
+            <p>Which <hi>Directions</hi> are not only <hi>Calculated</hi> for this <hi>preſent</hi> Seaſon, but are <hi>deſignedly</hi> adopted to ſerve upon the like occaſion <hi>for time to come.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>PSAL. 147.17.</hi>
+               </bibl>
+               <p>He caſteth forth his Ice like Morſels; who can ſtand before his Cold?</p>
+            </q>
+            <p>Written in Anſwer to a Letter of a Perſon of Quality, and at his Command made publick for the Common Good.</p>
+            <p>
+               <hi>By</hi> JOHN PETER <hi>Phyſician.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Sam. Smith</hi> at the <hi>Prince's Arms</hi> in St. <hi>Pauls Church Yard,</hi> 1684.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:37231:2"/>
+            <pb n="1" facs="tcp:37231:2"/>
+            <head>A Philoſophical Account OF THIS HARD FROST.</head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>YOurs received, and upon weighing its <hi>Con<g ref="char:EOLhyphen"/>tents,</hi> I find my ſelf involved in a <hi>Dilem<g ref="char:EOLhyphen"/>ma:</hi> If I ſhould ſtifle it by <hi>ſilence</hi> or anſwer it by <hi>excuſe,</hi> I ſhould give you a juſt occaſion to be jealous of my obedience to that <hi>Command</hi> (I have always more than pretended) you juſtly have over me: On the other hand, by readily anſwer<g ref="char:EOLhyphen"/>ing <hi>your deſire,</hi> I ſhall pitifully expoſe my inſuffi<g ref="char:EOLhyphen"/>ciency for ſuch a <hi>Task:</hi> I confeſs I cannot for my life be ſo ungrateful and diſobliging, as to become guilty of the former part, and therefore conſider<g ref="char:EOLhyphen"/>ing into <hi>whoſe hands</hi> I ſhall fall, I ſhall the cheer<g ref="char:EOLhyphen"/>fuller proceed in doing my endeavour to anſwer <hi>your deſire, viz.</hi> That I would preſent you with an <hi>Hypotheſis</hi> of the <hi>Natural Reaſon</hi> of <hi>Heat</hi> and <hi>Cold, Froſt</hi> and <hi>Thaw</hi> (2.) That I would give you my Opinion, What <hi>Effects</hi> this extream Cold and <hi>Froſty Seaſon</hi> may probably have on <hi>Humane Bo<g ref="char:EOLhyphen"/>dies,</hi> as to <hi>Health</hi> and <hi>Sickneſs.</hi>
+            </p>
+            <p>In undertaking to Salve the <hi>Phaenomena</hi> of <hi>Me<g ref="char:EOLhyphen"/>teors,</hi> I ſhall not look back into the <hi>Aegyptian Darkneſs</hi> of the <hi>Peripatetick Philoſophy (you</hi> ſeeming to intimate, that the diſſatisfaction you found in its <hi>Theory,</hi> gave you Incitement to put me upon this <hi>Deſign</hi>) to ingulf my ſelf and you in un<g ref="char:EOLhyphen"/>telligible
+<pb n="2" facs="tcp:37231:3"/>
+               <hi>Notions,</hi> but ſhall launch out into a more genuine and better grounded <hi>Hypotheſis,</hi> wherein all <hi>Appearances</hi> of <hi>Nature</hi> are eaſily <hi>Saluable.</hi> Therefore to cut my <hi>Suit</hi> according to my <hi>Cloth,</hi> to fit my <hi>Anſwer</hi> to your <hi>Requeſt</hi> to the <hi>ſize</hi> of a <hi>Letter,</hi> I ſhall (1.) briefly offer you an <hi>Hypotheſis</hi> of <hi>Meteors</hi> in general. (2.) Of <hi>Heat</hi> and <hi>Cold, Froſt</hi> and <hi>Thaw</hi> in particular. (3.) I ſhall endeavour from the ſame <hi>Theory</hi> rationally to conclude what <hi>Effects</hi> this extream Cold and Froſty <hi>Seaſon</hi> may probably have upon <hi>Humane Bodies,</hi> as to <hi>Health</hi> and <hi>Sickneſs.</hi>
+            </p>
+            <p>That the ſeveral <hi>Appearances</hi> in <hi>Metereology</hi> (as all other <hi>Phaenomena's</hi> in <hi>Nature</hi> are beſt reſolva<g ref="char:EOLhyphen"/>ble by <hi>Spagiritick Principles</hi> (viz. <hi>Spirit, Sulphur, Salt, Water,</hi> and <hi>Earth</hi>) daily Experience evinces, and that according to their various <hi>Motions</hi> and different <hi>Proportions</hi> in mixt Bodies, are the ſaid <hi>Bodies</hi> built up and demoliſh'd; raiſed up, and ta<g ref="char:EOLhyphen"/>ken in pieces again.</p>
+            <p>As in <hi>Meteors,</hi> ſo alſo in <hi>Minerals,</hi> the chief active <hi>Principles</hi> are <hi>Salt</hi> and <hi>Sulphur,</hi> they are both for the moſt part <hi>conceived</hi> in the ſame <hi>Womb:</hi> As the Production of the laſt is made by the ſaid Fermentative <hi>Principles</hi> or <hi>Elementary Particles</hi> grown <hi>compact,</hi> and made <hi>concrete</hi> in the teeming <hi>Womb</hi> of the Earth: So whilſt the ſaid Fermentative <hi>Principles</hi> are fluid, and in <hi>Solution,</hi> fluctuating here and there in the <hi>Earths bowels,</hi> they fume out various <hi>Exhalations</hi> through the ſubteraneous <hi>paſſages,</hi> which mingling with the <hi>Airy Corpuſcles,</hi> ſupply the <hi>Region</hi> of the Atmo-ſphere, with the uſual variety of <hi>Appearances</hi> obſervable by every vulgar Eye, as Clouds, Wind, Snow, Hail, Rain,
+<pb n="3" facs="tcp:37231:3"/>
+Dew, Hoary Rimes, the viciſſitude of <hi>Heat</hi> and <hi>Cold, &amp;c.</hi> as alſo with others more unuſual and ſtrange, as Fiery Drakes, Dancing Torches, Burn<g ref="char:EOLhyphen"/>ing Globes, <hi>Iguis Fatuus, Ignis Lambens, Parelli, &amp; Paraſelenae</hi> (many Suns and Moons) and many other wonderful <hi>Apparitions.</hi>
+            </p>
+            <p n="2">2. From this ſhort <hi>Hypotheſis</hi> of <hi>Meteors</hi> in gene<g ref="char:EOLhyphen"/>ral, I raiſe the following one of <hi>Heat</hi> and <hi>Cold, Froſt</hi> and <hi>Thaw</hi> in particular.</p>
+            <p>
+               <hi>Firſt,</hi> The <hi>Particles</hi> of Cold being conceived in the Frozen <hi>Womb</hi> of the Earth (in that <hi>Climate,</hi> where the enlivening and thawing <hi>Beams</hi> of the Sun ſeldom or never approach) paſſing through the <hi>Pores</hi> of the Earth into the Airy <hi>Region,</hi> are brought to us through the <hi>Air</hi> (their proper Vehicle) by certain peculiar <hi>Winds,</hi> which in their Motion, meet<g ref="char:EOLhyphen"/>ing with Liquid <hi>Watery Bodies,</hi> do co-agulate them; by which means thoſe Bodies we call <hi>Ice, Snow, &amp;c.</hi> are conſtituted.</p>
+            <p>
+               <hi>Secondly,</hi> As there be <hi>Corpuſcles of Cold,</hi> ſo are there alſo <hi>Particles</hi> of <hi>Heat</hi> begot in a different <hi>Womb</hi> of the Earth in thoſe <hi>Regions,</hi> which are moſtly or always viſited with the Parching Beams of the Sun, which are brought to us at other Sea<g ref="char:EOLhyphen"/>ſons through the ſame <hi>Vehicle</hi> of Air by different and contrary <hi>Winds,</hi> which in their Motion meeting with thoſe of Cold (either in the <hi>Air</hi> or <hi>here</hi> below co-agulated in Watry Bodies) do by quite altering their <hi>Textures,</hi> wholly reſolve, mortifie, and thaw them (as we daily ſee ſome Salts do others of a dif<g ref="char:EOLhyphen"/>ferent <hi>Texture</hi>) ſo that thereupon the ſaid <hi>Parti<g ref="char:EOLhyphen"/>cles</hi> of Heat prevailing, a warm <hi>Temper</hi> of Air ſucceeds, and the <hi>Weather</hi> becomes quite altered, and that ſometimes very ſuddenly, even to <hi>Admiration.</hi>
+            </p>
+            <p>
+               <pb n="4" facs="tcp:37231:4"/>And that the <hi>Phenomena</hi> of almoſt all <hi>Meteors,</hi> and their true Reaſons, are deduceable from the <hi>Exhalati<g ref="char:EOLhyphen"/>ons</hi> of <hi>Sulphur</hi> and <hi>Salts,</hi> as <hi>Nitre, Vitriol, Alum,</hi> and <hi>Sal Armoniack,</hi> is apparently conceivable by the fol<g ref="char:EOLhyphen"/>lowing Inſtances of ſome <hi>Artificial ways</hi> of repre<g ref="char:EOLhyphen"/>ſenting <hi>Heat</hi> and <hi>Cold:</hi> As</p>
+            <p>If you put <hi>Oil of Vitriol</hi> to Water in a Phial, and mix them well together by ſhaking, you will find, that thoſe two Liquors (tho cold to touch) will im<g ref="char:EOLhyphen"/>mediately contract a greater <hi>Heat</hi> than the hand that holds the Glaſs can well ſuffer: and from the ſame cauſe you may make Ice it ſelf to cauſe heat to another cold Liquor, by proceeding as before, with <hi>Ice</hi> put into <hi>Oil of Vitriol.</hi>
+            </p>
+            <p>If you pleaſe to mix <hi>Sal Armoniack</hi> with <hi>Saturn Ore</hi> in a Mortar, and put them into a long Glaſs, and ſhake them well together: whilſt the <hi>Solution</hi> is ma<g ref="char:EOLhyphen"/>king, you will find the Glaſs feel very Cold, and if at the ſame time you waſh the outſide of the Glaſs with Water, you will find as you pour it on, long Flakes of <hi>Ice</hi> will immediately be congealed: The ſame will <hi>Sal Armoniack</hi> of it ſelf do, being diſſolved in <hi>Water.</hi>
+            </p>
+            <p>Beſides the trite and common <hi>Experiment</hi> of ma<g ref="char:EOLhyphen"/>king it <hi>Freeze Artificially, viz.</hi> by putting either <hi>common Salt,</hi> or Sea-Salt, or Nitre, or Vitriol, or Sal Ar<g ref="char:EOLhyphen"/>moniack, and Snow, together into a Pewter Flagon, ſet on a Joyn'd-ſtool by the Fire-ſide, upon which ſome Water is ſpilt, &amp; churning them together with a Rol<g ref="char:EOLhyphen"/>ling Pin (or ſome ſuch Inſtrument) in a little time the Flagon will be ſo <hi>hard frozen</hi> to the Stool, that without ſome difficulty it cannot be <hi>parted.</hi>
+            </p>
+            <p>If you put Snow into a <hi>Pewter-platter,</hi> and ſet it upon a Chafing-diſh of <hi>live Coals,</hi> and in the midſt of the <hi>Snow</hi> you place a Glaſs of <hi>Water,</hi> you will
+<pb n="5" facs="tcp:37231:4"/>
+find, that as the <hi>Snow</hi> melts, the <hi>Water</hi> in the Glaſs will be <hi>frozen.</hi>
+            </p>
+            <p>The Reaſon of which <hi>Proceſſes</hi> is this, <hi>viz.</hi> The <hi>Nitrous</hi> Particles of <hi>Snow</hi> being driven from their <hi>hold</hi> by the <hi>Fire,</hi> and thoſe <hi>Salts</hi> (for any of theſe <hi>Salts</hi> being added to <hi>Snow</hi> or <hi>Ice,</hi> do preſently diſſolve their Texture) they in their <hi>flight</hi> joyn themſelves to the Neighbouring Water, and ſo <hi>congeal</hi> and turn it to <hi>Ice.</hi>
+            </p>
+            <p>
+               <hi>Thirdly,</hi> I am (according to my propos'd <hi>Method</hi>) come to give you my <hi>Opinion,</hi> what <hi>Effects</hi> this ex<g ref="char:EOLhyphen"/>tream Cold <hi>Froſty Seaſon</hi> may probably have upon Humane Bodies as to <hi>Health</hi> and <hi>Sickneſs;</hi> which I ſhall conſider in Two Parts, (1.) In Relation to the time of the <hi>Froſts</hi> continuance. (2.) In Relation to the time of Thaw.</p>
+            <p>Whilſt the <hi>Froſt</hi> continues, and the Minute Keen <hi>Particles</hi> of Cold are in ſuch ſwarms brought to us by the Northern Winds, their peculiar <hi>Vehicle</hi> for this <hi>Climate</hi> (as they are by the Southern Winds peculiar likewiſe to them, over whom that <hi>Pole</hi> is Elevated) they cloſe up the Pores of our Skins, ſo that the u<g ref="char:EOLhyphen"/>ſual <hi>Vent</hi> by <hi>Tranſpiration</hi> being ſtopt up, our in<g ref="char:EOLhyphen"/>ward <hi>Ferments</hi> thereby become mightily <hi>invigorated;</hi> as is manifeſt in that <hi>Trite</hi> Obſervation, that our <hi>Ap<g ref="char:EOLhyphen"/>petites</hi> to Food are ſtronger, and our <hi>Digeſtion</hi> better, in <hi>Froſty</hi> than <hi>Warm Weather:</hi> And ſince our <hi>Spirits</hi> by thoſe Particles of Cold are driven up and confined to a narrower <hi>room</hi> than ordinary, the <hi>Sulphurous</hi> parts of the <hi>Blood</hi> wanting their wonted <hi>ſpace</hi> to di<g ref="char:EOLhyphen"/>late themſelves in, are apter now than in warm Wea<g ref="char:EOLhyphen"/>ther, upon every little occaſion to take Fire, and to be thrown into an unnatural <hi>Ferment,</hi> thereby laying the Foundation of <hi>Feavors</hi> of all ſorts, <hi>Small Pox,
+<pb n="6" facs="tcp:37231:5"/>
+Pleuriſies, Peripneumonia,</hi> all ſorts of Internal <hi>In<g ref="char:EOLhyphen"/>flamations,</hi> External <hi>Cutaneous Affects, &amp;c.</hi> as alſo <hi>
+                  <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>tharrs, Aſthma's, Long laſting Coughs, Chin Coughs,</hi> &amp;c. For which later Catalogue I take the peculiar reaſon to be, becauſe the Blood at ſuch a time being over-charged with ſuperfluous <hi>Seraſities</hi> (their wonted <hi>paſſages</hi> by evaporation being ſtopt) doth pour upon the <hi>Lungs</hi> ſo great a quantity there<g ref="char:EOLhyphen"/>of, that they are (as it were) drowned and damned up therewith, upon which account great <hi>Obſtructions</hi> muſt needs ſucceed, the Parents of thoſe and ſuch like Diſtempers.</p>
+            <p>And ſhould this <hi>Froſty Seaſon</hi> continue one Month longer (the time wherein the <hi>Blood</hi> of all <hi>Animals</hi> is inſpired with a new <hi>Ferment,</hi> and begins to <hi>luxu<g ref="char:EOLhyphen"/>riate</hi>) the caſe would be much with our <hi>Bodies,</hi> as it is with <hi>Veſſels</hi> which are filled with <hi>Wine</hi> whilſt it is fermenting, and immediately cloſe <hi>bung'd</hi> up; where the <hi>Veſſels</hi> and the <hi>Liquor</hi> would be in great danger of being <hi>ſpoiled</hi> and <hi>loſt.</hi>
+            </p>
+            <p>And on the other hand, ſhould the <hi>intenſneſs</hi> of the Seaſon preſently abate, and the <hi>Atomes</hi> of <hi>Cold</hi> be on a ſudden now ſhattered to <hi>pieces</hi> by other <hi>par<g ref="char:EOLhyphen"/>ticles</hi> of a different <hi>compoſure;</hi> yet ſince for al<g ref="char:EOLhyphen"/>moſt two Solar Months they have had their Impreſ<g ref="char:EOLhyphen"/>ſions upon us, we ſhall be made ſenſible of their <hi>influence</hi> a longer time than generally we are aware of, they having undoubtedly <hi>imprinted</hi> on our <hi>Bo<g ref="char:EOLhyphen"/>dies</hi> ſuch Morbiſick <hi>prediſpoſitions</hi> (like <hi>ſeeds</hi> of vari<g ref="char:EOLhyphen"/>ous <hi>Diſeaſes</hi>) as will be ready upon <hi>fit</hi> occaſions (for many <hi>Months</hi> next ſucceeding) to ſpring up and be brought into <hi>Act,</hi> to the endangering the whole <hi>frame</hi> of our <hi>Conſtitutions.</hi>
+            </p>
+            <p>
+               <pb n="7" facs="tcp:37231:5"/>Now that thoſe perſons whom this <hi>Froſty Seaſon</hi> found in health, and are ſo now, ſhould be put in a way to continue in the ſame <hi>ſtate,</hi> ſo long <hi>(however)</hi> as it laſts, I ſhall (ſince it lights ſo <hi>pat</hi> in my way) <hi>caution</hi> them of two things.</p>
+            <p n="1">1. That they take care, they do not too much exalt the <hi>Fermint</hi> of the <hi>Blood</hi> by too violent <hi>Exerciſe,</hi> or by too copious a ſupply of <hi>Spirituous Liquors:</hi> which laſt is too frequent a Cuſtom with ſome, who finding themſelves externally <hi>Cold</hi> in ſuch an ex<g ref="char:EOLhyphen"/>tream <hi>Froſty</hi> time as this, do (upon a miſtaken <hi>Noti<g ref="char:EOLhyphen"/>on</hi>) allow themſelves a greater <hi>liberty</hi> (than at other times they were wont) in the uſe of Diſtilled <hi>Spi<g ref="char:EOLhyphen"/>rits, Brandy, Wine,</hi> and other <hi>Strong Liquors,</hi> where<g ref="char:EOLhyphen"/>by under pretence of procuring <hi>Heat</hi> and <hi>Vigor,</hi> they certainly endanger the <hi>ſtifling</hi> and <hi>ſuffocaing</hi> the Natural <hi>Heat</hi> within them.</p>
+            <p n="2">2. That on the other ſide they be not careleſs in oppoſing the ſharp and keen <hi>particles</hi> of <hi>Cold</hi> by warmth from moderate <hi>Exerciſe,</hi> or by a due and accuſtomed uſe of <hi>Spirituous Liquors;</hi> for let the <hi>Blood</hi> and <hi>Liquid Jui<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es</hi> of our Bodies be invigorated by a due ſupply of <hi>Spirituous, Saline &amp; Sulphurous</hi> Particles, whereby they may be kept conſtantly in motion, <hi>&amp;c.</hi> then there will be no fear of our re<g ref="char:EOLhyphen"/>ceiving any injury by Cold: but where through ne<g ref="char:EOLhyphen"/>ceſſity or careleſsneſs, thoſe needful ſupplies are wanting, it is no great wonder if ſuch do fall <hi>Vi<g ref="char:EOLhyphen"/>ctims</hi> to this almoſt-intollerable <hi>Seaſon:</hi> For from what parts of our Bodies ſoever, the <hi>Spirituous par<g ref="char:EOLhyphen"/>ticles</hi> ſhall be forc'd to with-draw themſelves and make a <hi>Retreat,</hi> they will inſtantly be ſupplied with the nimble Particles of <hi>Cold,</hi> which will congeal
+<pb n="8" facs="tcp:37231:6"/>
+our <hi>fluid humours;</hi> and if ſuffered to prevail, muſt certainly put the <hi>Spirits</hi> to a <hi>rout.</hi> For that the Par<g ref="char:EOLhyphen"/>ticles of Cold at ſome times and in ſome places are ſo intenſe, that they irrecoverably deſtroy the <hi>Fer<g ref="char:EOLhyphen"/>ments</hi> of <hi>Men</hi> and other <hi>Animals,</hi> is evident by their killing of many <hi>Men</hi> and <hi>Beaſts</hi> in ſome Countreys, as in <hi>Ruſſia, Greenland, Norway,</hi> &amp;c. where the <hi>Froſts</hi> are ſometimes ſo ſtrong, that <hi>Men</hi> are often <hi>frozen</hi> to <hi>death;</hi> and I have read and been perſo<g ref="char:EOLhyphen"/>nally informed, that in thoſe Countries <hi>Men</hi> in <hi>Tra<g ref="char:EOLhyphen"/>velling</hi> have been brought to their <hi>Inns</hi> frozen to death on <hi>Horſe-back,</hi> and been found ſo ſtiff and ri<g ref="char:EOLhyphen"/>gid, that they have ſat up ſtrait like <hi>Statues.</hi>
+            </p>
+            <p n="2">2. Now I am come to conſider what effects the <hi>Thaw<g ref="char:EOLhyphen"/>ing Seaſon</hi> (immediately ſucceeding this <hi>Froſt</hi>) may probably have on Humane Bodies, as to <hi>Health</hi> and <hi>Sickneſs.</hi>
+            </p>
+            <p>When the <hi>Southern Winds</hi> ſhall fill our <hi>Hemiſphere</hi> with the <hi>Particles</hi> of Heat and Moiſture, and in carrying them through the common <hi>Vehicle</hi> of the <hi>Air,</hi> ſhall with their great and numerous <hi>Swarms,</hi> meet there with thoſe of <hi>Froſt</hi> and <hi>Cold,</hi> and being of a different <hi>Texture,</hi> ſhall ſuddenly <hi>reſolve, thaw,</hi> and take them all to pieces again, then will all <hi>Pu<g ref="char:EOLhyphen"/>trefactive Ferments</hi> grow vigorous; and upon the unhinging and unriveting the <hi>Atomes</hi> of <hi>Cold</hi> great alterations muſt needs be produced in the Bodies of all <hi>Animals.</hi>
+            </p>
+            <p>Whatever Cold, Froſty, and Snowy Winters may conduce to the invigorating the Earth, to make it the more Fertile in producing <hi>Vegetables</hi> (I ſhall not here examine;) but if we look back into thoſe Years in which have happened the moſt <hi>Epidemical Malignant Diſeaſes,</hi> and the greateſt <hi>Mortalities,</hi>
+               <pb n="9" facs="tcp:37231:6"/>
+we ſhall find they have ſucceeded the <hi>Coldeſt,</hi> moſt <hi>Froſty,</hi> and <hi>Sharpeſt-Winters.</hi>
+            </p>
+            <p>When after a <hi>Vigorous Aſſault</hi> the <hi>Particles</hi> of <hi>Cold</hi> have kept poſſeſſion of the minute <hi>Portals</hi> of our <hi>Bodies,</hi> for (it may be) two or three <hi>Revolutions</hi> of the <hi>Earth Attendant,</hi> they ſhall be ſo ſtrenu<g ref="char:EOLhyphen"/>ouſly <hi>attaqued</hi> by the prevailing <hi>Particles</hi> of a contrary <hi>Extream,</hi> that they ſhall be forc'd to ſur<g ref="char:EOLhyphen"/>render and to quit their <hi>Hold;</hi> what <hi>quarter</hi> then can we expect ſhould be given to the various <hi>Juices</hi> of our <hi>Bodies?</hi> Can any <hi>Extream</hi> be <hi>Friendly</hi> to <hi>Nature?</hi> Can ſuch ſudden <hi>Alteration</hi> of the Weather prove otherwiſe, than mightily prejudicial to our <hi>Healths?</hi> Thoſe Paſſages of our Bodies which were ſo long ſo cloſely lock'd up, will now be laid open, and become <hi>laxe</hi> and <hi>penetrable,</hi> liable to receive ſuch <hi>Exotick putrefactive Ferments</hi> as the <hi>Air</hi> (being ſaturated with) ſhall preſent: whence is that trite and true <hi>Obſervation,</hi> that in Cold, Raw, <hi>Thaw<g ref="char:EOLhyphen"/>ing Weather</hi> People generally take more Cold, and are more prone to Diſeaſes than at other <hi>times:</hi> And it is <hi>moſtly</hi> of <hi>ſuch</hi> Weather, that <hi>Aged</hi> and In<g ref="char:EOLhyphen"/>firm <hi>Folks</hi> do (by their <hi>Almanacks,</hi> as 'tis ſaid, in their Bones) ſo truly prognoſticate, and diſcern its <hi>approach</hi> before-hand. For in ſuch cold, open Wea<g ref="char:EOLhyphen"/>ther, the raw and moiſt <hi>Particles</hi> in the <hi>Air,</hi> in<g ref="char:EOLhyphen"/>ſenſible inſinuating themſelves into our gaping Pores, ſlide into the <hi>Maſs</hi> of <hi>Blood,</hi> whereby it be<g ref="char:EOLhyphen"/>coming overcharged with <hi>Superfluous Seroſities</hi> (as from another cauſe, before intimated, it was, whilſt the <hi>Froſt</hi> laſted) it carries them in a full Cur<g ref="char:EOLhyphen"/>rent to the <hi>Lungs,</hi> where depoſiting them, they there ſtagnate, and thereby become the cauſe of
+<pb n="10" facs="tcp:37231:7" rendition="simple:additions"/>
+deſperate <hi>Coughs, Aſthma's, Gouts, Rheumatiſms, Drowſineſs,</hi> with manifold other <hi>Symptoms,</hi> vulgar<g ref="char:EOLhyphen"/>ly aſcribed to the <hi>Scurvey.</hi>
+            </p>
+            <p>Thus (Honoured Sir) according to my preſent Sentiments of Things, I have endeavoured to com<g ref="char:EOLhyphen"/>ply with your deſire; which tho it be far from be<g ref="char:EOLhyphen"/>ing done <hi>Dignum Rei,</hi> yet of ſuch as it is (I will preſume to ſay) I queſtion not its <hi>Candid Acceptance:</hi> your Commands gave it Life, had it not been for that, it had never had Being: And the daring <hi>A<g ref="char:EOLhyphen"/>toms</hi> of <hi>Cold</hi> inſinuate themſelves into the <hi>Ink</hi> in my <hi>Pen</hi> whilſt I am Writing, and 'tis by the <hi>Ma<g ref="char:EOLhyphen"/>gick</hi> of your Commands if my Intellectuals have been kept <hi>Froſt-free.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <date>Feb. 2. 1683/4</date>
+                  <hi>L. M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>olo Le<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iſh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </hi>
+               </dateline>
+               <salute>Honoured Sir,</salute>
+               <signed>Your moſt Humbly Devoted Servant, <hi>J. P.</hi>
+               </signed>
+            </closer>
+            <pb facs="tcp:37231:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
